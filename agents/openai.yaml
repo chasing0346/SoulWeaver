@@ -1,0 +1,6 @@
+interface:
+  display_name: "SoulWeaver"
+  short_description: "从授权聊天端到端蒸馏并封装可调用的人物模拟 Skill"
+  default_prompt: "使用 $soulweaver，全程用简体中文引导我从已授权的聊天导出路径创建一个有证据支撑的合成人物 Skill。"
+policy:
+  allow_implicit_invocation: true

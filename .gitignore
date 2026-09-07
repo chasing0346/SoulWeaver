@@ -1,0 +1,24 @@
+﻿# Python
+__pycache__/
+*.py[cod]
+
+# Secrets
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# SoulWeaver private/runtime data
+soulweaver-work/
+work/
+outputs/
+*.jsonl
+*.csv
+*.zip
+
+# Editor and OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
