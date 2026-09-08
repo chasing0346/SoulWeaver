@@ -16,6 +16,8 @@ SoulWeaver 是一个专为 Codex 设计的 Skill，用于从用户明确授权�
 
 [项目演进](#项目演进) · [支持的数据来源](#支持的数据来源) · [功能特性](#功能特性) · [安装](#安装) · [快速开始](#快速开始) · [效果示例](#效果示例) · [项目结构](#项目结构)
 
+> 初次使用请阅读：[SoulWeaver 简洁使用教程](./使用教程.md)
+
 ## 项目演进
 
 SoulWeaver 从 [perkfly/ex-skill](https://github.com/perkfly/ex-skill) 的人物记忆 Skill 思路出发，针对 Codex 的 Skill 调用、长档案分析和下一条消息预测进行了重新设计。
